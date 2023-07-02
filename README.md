@@ -114,3 +114,23 @@ docker ps
 - Image: mysql:5.7.22
 - Image: react-news-app_client
 
+- Guest Screen
+![1st screen](https://github.com/sabaoonbedar/backend-laravel-api/assets/65660680/71acabe9-5992-4a3d-a8f8-63226351227a)
+
+- Login Screen
+![login](https://github.com/sabaoonbedar/backend-laravel-api/assets/65660680/b66b7313-30a3-4bf5-9cff-f1edd1186505)
+
+- Sign Up
+![signup](https://github.com/sabaoonbedar/backend-laravel-api/assets/65660680/8b71e88d-40a6-45aa-93f2-5f498f5ca8ba)
+
+- Home Screen
+![main](https://github.com/sabaoonbedar/backend-laravel-api/assets/65660680/429a287f-96c1-42bb-982f-5ebdc27a52ea)
+
+- Settings Screen
+![settings](https://github.com/sabaoonbedar/backend-laravel-api/assets/65660680/2b195d28-184a-4162-aa40-1752725da9e3)
+
+
+
+
+
+
